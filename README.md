@@ -1,7 +1,9 @@
 # dockers-mycontroller
 
 ## Pre steps
-Put backups in the backup folder
+Put backups in the backup folder.
+
+Put tar.gz in zips folder. Rename to mycontroller.tar.gz.
 
 ## Step 1: build the image
 ./build.sh
