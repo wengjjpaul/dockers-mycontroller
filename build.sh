@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build --no-cache -t scino/mycontroller .
+docker build --no-cache -t scino/mycontroller:ubuntu .
